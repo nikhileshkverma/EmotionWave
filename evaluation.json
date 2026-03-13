@@ -1,0 +1,32 @@
+[
+    {
+      "text": "This is why I have trust issues",
+      "pred": [
+        "disappointment"
+      ]
+    },
+    {
+      "text": "It's kinda sad knowing that ibises are only scavenging our bins & rubbish due to their natural habitats drying out.",
+      "pred": [
+        "sadness"
+      ]
+    },
+    {
+      "text": "Ok cool, thanks",
+      "pred": [
+        "gratitude"
+      ]
+    },
+    {
+      "text": "Ever seen a lion limber up before it takes down a gazelle?",
+      "pred": [
+        "curiosity"
+      ]
+    },
+    {
+      "text": "She\u2019s got time to clap back cause she left the gig early huh?",
+      "pred": [
+        "curiosity"
+      ]
+    }
+  ]
