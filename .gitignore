@@ -1,16 +1,6 @@
-# Python
 .venv/
-__pycache__/
-*.pyc
-
-# Environment variables
 .env
-
-# Mac
 .DS_Store
-
-# Node
+__pycache__/
 node_modules/
-
-# Jupyter
 .ipynb_checkpoints/
